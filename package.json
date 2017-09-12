@@ -1,0 +1,23 @@
+{
+  "name": "t7-movelist",
+  "version": "1.0.0",
+  "description": "Combine movelists from http://rbnorway.org/t7-frame-data/ and https://toolassisted.github.io/T7/MOVELIST/",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "node src/t7.test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkganzan13/t7-movelist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkganzan13/t7-movelist/issues"
+  },
+  "homepage": "https://github.com/jkganzan13/t7-movelist#readme",
+  "dependencies": {
+    "ramda": "^0.24.1"
+  }
+}
