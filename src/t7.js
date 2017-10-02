@@ -46,7 +46,7 @@ module.exports = () => map_chars.map((char) => {
 	const moves = char.rbn.moves.map(getMoveDataCurried(char));
 
 	const json = { number, name, fullName, moves }
-	fs.writeFile(`t7/${char.c}.json`, JSON.stringify(json, null, 4), (err) => console.log(err));
+	fs.writeFile(`t7/${char.c}.json`, JSON.stringify(json, null, 4), (err) => {});
 });
 /**
  * End
@@ -148,6 +148,7 @@ function convertRbnMoves(notation) {
 		replaceCH,
 		replaceOpponentDown,
 		replaceHold,
+		replaceNeutral,
 		replaceGrounded,
 		replaceFaceUp,
 		replaceTilde,
@@ -233,7 +234,7 @@ function convertJFMoves(str) {
 //in rage, when hit
 function replaceRnbWords(str) {
 	return str.replace('in rage', 'During, Rage,')
-		.replace(' When hit ', ', during, hit, ')
+		.replace(/ When hit /g, ', during, hit, ')
 }
 
 function splitArrowAndBtn(str) {
@@ -258,7 +259,7 @@ function replaceTilde(str) {
 		const withBrackets = R.pipe(R.insert(0, '【'), R.insert(splitted.length + 1, '】'))(splitted);
 		return withBrackets.join(', ')
 	};
-	return str.replace(/[1-4]~[1-4]/, concatBrackets)
+	return str.replace(/([1-4]\+)?[1-4]~[1-4]/, concatBrackets)
 }
 
 function removeOr(str) {
@@ -308,7 +309,11 @@ function replaceCH(str) {
 }
 
 function replaceHold(str) {
-  return str.replace('*', 'Hold,')
+  return str.replace('*', 'Hold')
+}
+
+function replaceNeutral(str) {
+  return str.replace(' n,', ' N,')
 }
 
 function trimSpaces(str) {
@@ -326,6 +331,8 @@ function replaceStances(str) {
 	return R.pipe(
 		replaceAlisaStance,
     replaceAsukaStance,
+    replaceBobStance,
+    replaceChloeStance,
 	)(str)
 }
 
@@ -340,5 +347,15 @@ function replaceAsukaStance(str) {
   return str.replace(/LCT/, 'During, Leg, Cutter,')
 }
 
-console.log(convertRbnMoves('f+3, *'))
-console.log(getCommands(' Hold'))
+function replaceBobStance(str) {
+  return str.replace(/BAL/, 'During, Spinner, Ball,')
+}
+
+function replaceChloeStance(str) {
+  return str.replace(/TWISTL/, 'During, Left, Twist,')
+    .replace(/TWISTR/, 'During, Right, Twist,')
+    .replace(/SCT/, 'During, Scoot,')
+}
+
+console.log(convertRbnMoves('2, in, time, with, the, rhythm, 3'))
+console.log(getCommands(" in time with the rhythm "))

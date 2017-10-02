@@ -2202,8 +2202,7 @@
                 "While",
                 "rising",
                 "1+2",
-                "Hold",
-                "(twospins)"
+                "Hold(twospins)"
             ],
             "hitLevel": [
                 "Mid"
@@ -2222,8 +2221,7 @@
                 "While",
                 "rising",
                 "1+2",
-                "Hold",
-                "(threespins)"
+                "Hold(threespins)"
             ],
             "hitLevel": [
                 "Mid"

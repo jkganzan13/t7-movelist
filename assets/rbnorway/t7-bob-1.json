@@ -9,7 +9,7 @@
     "on_ch": "KND",
     "notes": "Rage art"
   }, {
-    "notation": "in rage f, f, F+3+4* or WR+3+4*",
+    "notation": "in rage f, f, f+3+4, *",
     "hit_level": "m (TJ), m (TJ)",
     "damage": "27,20",
     "speed": "26~31a 86~87s (29~) 1js15~ 2js14~",
@@ -18,7 +18,7 @@
     "on_ch": "KND(KND)",
     "notes": "Rage art"
   }, {
-    "notation": "in rage f, f, F+3+4*, f or WR+3+4*, f",
+    "notation": "in rage f, f, f+3+4, *, F",
     "hit_level": "m (TJ), m (TJ), (Special) (TC)(BAL)",
     "damage": "27,20s",
     "speed": "26~31 86~87 (29~) 115~ 214~",
@@ -900,7 +900,7 @@
     "on_ch": "0~+2",
     "notes": null
   }, {
-    "notation": "u or u/f+4, 4",
+    "notation": "u/f+4, 4",
     "hit_level": "m (TJ), m",
     "damage": "14,18",
     "speed": "js1~5",
@@ -1026,7 +1026,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "b, B+3+4",
+    "notation": "b, B+3+4, (, D/B, to, cancel)",
     "hit_level": "! (TJ)",
     "damage": "60",
     "speed": "72~74 (73~) js51~",
@@ -1053,7 +1053,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, f, F+3 or WR+3",
+    "notation": "f, f, f+3",
     "hit_level": "m (TJ)",
     "damage": "30",
     "speed": "20~26 (23~) js3~",
@@ -1062,7 +1062,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, f, F+3+4 or WR+3+4",
+    "notation": "f, f, f+3+4",
     "hit_level": "m (TJ)",
     "damage": "27",
     "speed": "26~36a (29~) js15~",
@@ -1224,7 +1224,7 @@
     "on_ch": "hKZD",
     "notes": null
   }, {
-    "notation": "f+3+4 (to BAL)",
+    "notation": "f+3+4",
     "hit_level": "(Special) (TC)(BAL)",
     "damage": null,
     "speed": "s",

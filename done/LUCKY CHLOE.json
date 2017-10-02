@@ -1,0 +1,3234 @@
+{
+    "number": 22,
+    "name": "LUCKY CHLOE",
+    "fullName": "Lucky Chloe",
+    "moves": [
+        {
+            "number": 1,
+            "name": "Rage Art",
+            "notation": [
+                "During",
+                "Rage",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 50,
+            "speed": 20,
+            "onBlk": -22,
+            "onHit": "KMUD",
+            "onCh": "KMUD",
+            "notes": "Rage art",
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Rage",
+                "df",
+                "3+4(orWhile",
+                "crouching",
+                "d/f",
+                "3+4"
+            ],
+            "hitLevel": [
+                "MidMidMid"
+            ],
+            "damage": "12,12,25",
+            "onBlk": "+3",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": "Rage art",
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Rage",
+                "df",
+                "3+4B"
+            ],
+            "hitLevel": [
+                "Mid",
+                "MidMid"
+            ],
+            "damage": "12,12,25",
+            "onBlk": "-4",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": "Rage art",
+            "properties": []
+        },
+        {
+            "number": 2,
+            "name": "Rage Drive 1",
+            "notation": [
+                "During",
+                "Rage",
+                "df",
+                "3+4",
+                "during",
+                "hit",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid",
+                "High"
+            ],
+            "damage": 78,
+            "speed": 17,
+            "onBlk": -2,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Rage art",
+            "properties": []
+        },
+        {
+            "number": 3,
+            "name": "Rage Drive 2",
+            "notation": [
+                "During",
+                "Rage",
+                "While",
+                "crouching",
+                "df",
+                "3+4",
+                "during",
+                "hit",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid",
+                "High"
+            ],
+            "damage": 78,
+            "speed": 17,
+            "onBlk": -2,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Rage art",
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1(orBack",
+                "towards",
+                "enemy",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1",
+                "2"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid"
+            ],
+            "damage": "7,12",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 4,
+            "name": "Left Point to C Uprock Hit",
+            "notation": [
+                "1",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 39,
+            "speed": 10,
+            "onBlk": -11,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 5,
+            "name": "Left Point to C Uprock Clap",
+            "notation": [
+                "1",
+                "2",
+                "2"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 39,
+            "speed": 10,
+            "onBlk": -4,
+            "onHit": "+2",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 6,
+            "name": "Left Point to C Uprock Swing",
+            "notation": [
+                "1",
+                "2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid",
+                "High",
+                "High"
+            ],
+            "damage": 51,
+            "speed": 10,
+            "onBlk": -2,
+            "onHit": "+13kg",
+            "onCh": "KND(+13kg)",
+            "notes": "Homing",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "12",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 7,
+            "name": "Right Point to High Five",
+            "notation": [
+                "2",
+                "2"
+            ],
+            "hitLevel": [
+                "High",
+                "High"
+            ],
+            "damage": 29,
+            "speed": 12,
+            "onBlk": -12,
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 8,
+            "name": "Right Point to Left Twist",
+            "notation": [
+                "2",
+                "in",
+                "time",
+                "with",
+                "the",
+                "rhythm",
+                "3"
+            ],
+            "hitLevel": [
+                "High",
+                "Low"
+            ],
+            "damage": 22,
+            "speed": 12,
+            "onBlk": -32,
+            "onHit": "+7s",
+            "onCh": "+7s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "17",
+            "onBlk": "-7",
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 9,
+            "name": "Right Middle Shift",
+            "notation": [
+                "3",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 33,
+            "speed": 15,
+            "onBlk": -14,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 10,
+            "name": "Double Swing",
+            "notation": [
+                "1+2"
+            ],
+            "hitLevel": [
+                "High",
+                "High"
+            ],
+            "damage": 32,
+            "speed": 22,
+            "onBlk": -2,
+            "onHit": "+13kg",
+            "onCh": "KND(+13kg)",
+            "notes": "Homing",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "12",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 11,
+            "name": "C Uprock Hit",
+            "notation": [
+                "f",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 32,
+            "speed": 17,
+            "onBlk": -11,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 12,
+            "name": "C Uprock Clap",
+            "notation": [
+                "f",
+                "2",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 32,
+            "speed": 17,
+            "onBlk": -4,
+            "onHit": "+2",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 13,
+            "name": "C Uprock Swing",
+            "notation": [
+                "f",
+                "2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High",
+                "High"
+            ],
+            "damage": 44,
+            "speed": 17,
+            "onBlk": -2,
+            "onHit": "+13kg",
+            "onCh": "KND(+13kg)",
+            "notes": "Homing",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": 14,
+            "name": "Hopping",
+            "notation": [
+                "f",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 16,
+            "onBlk": -11,
+            "onHit": "+5",
+            "onCh": "+5~+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 15,
+            "name": "Axe Aerial",
+            "notation": [
+                "f",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 14,
+            "speed": 27,
+            "onBlk": -4,
+            "onHit": "+9s",
+            "onCh": "+9s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "4",
+                "b"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "14",
+            "onBlk": "-4",
+            "onHit": "+9s",
+            "onCh": "+9s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 16,
+            "name": "Double Axe Aerial",
+            "notation": [
+                "f",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 24,
+            "speed": 27,
+            "onBlk": -13,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "4",
+                "4",
+                "b"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": "14,10",
+            "onBlk": "-9",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 17,
+            "name": "Elbow Beat",
+            "notation": [
+                "f",
+                "1+2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 32,
+            "speed": 25,
+            "onBlk": -5,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 18,
+            "name": "Touchdown Raiz",
+            "notation": [
+                "f",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Low"
+            ],
+            "damage": 25,
+            "speed": 29,
+            "onBlk": -11,
+            "onHit": "+8",
+            "onCh": "+8~+11s (KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 19,
+            "name": "Touchdown Raiz to Buffalo",
+            "notation": [
+                "f",
+                "3+4",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 29,
+            "onBlk": -17,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "13",
+            "onBlk": "-1",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 20,
+            "name": "C Krump",
+            "notation": [
+                "df",
+                "2",
+                "(or",
+                "while",
+                "rising",
+                "2",
+                ")"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 14,
+            "speed": 15,
+            "onBlk": -13,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "20",
+            "onBlk": "-13",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 21,
+            "name": "C Krump Special",
+            "notation": [
+                "df",
+                "2",
+                "(or",
+                "while",
+                "rising",
+                "2",
+                ")",
+                "during",
+                "hit",
+                "4",
+                "during",
+                "hit",
+                "3",
+                "during",
+                "hit",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 43,
+            "speed": 15,
+            "onBlk": "+28",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 22,
+            "name": "Punking Twirl",
+            "notation": [
+                "df",
+                "3",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 36,
+            "speed": 15,
+            "onBlk": -11,
+            "onHit": "+2",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 23,
+            "name": "Punking Marionette",
+            "notation": [
+                "df",
+                "3",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 30,
+            "speed": 15,
+            "onBlk": -13,
+            "onHit": "+8k",
+            "onCh": "+8k",
+            "notes": "Tail spin",
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": 24,
+            "name": "Down Step",
+            "notation": [
+                "df",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 23,
+            "speed": 27,
+            "onBlk": -12,
+            "onHit": "+7s",
+            "onCh": "+7s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 25,
+            "name": "Waacking",
+            "notation": [
+                "d",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 17,
+            "speed": 16,
+            "onBlk": "+2",
+            "onHit": "+2s",
+            "onCh": "TUD",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 26,
+            "name": "C Windmill",
+            "notation": [
+                "d",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low",
+                "Low"
+            ],
+            "damage": 20,
+            "speed": 23,
+            "onBlk": -13,
+            "onHit": -2,
+            "onCh": "-2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 27,
+            "name": "Double C Windmill",
+            "notation": [
+                "d",
+                "3+4",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low",
+                "Low",
+                "Low",
+                "Low"
+            ],
+            "damage": 27,
+            "speed": 23,
+            "onBlk": -17,
+            "onHit": "0",
+            "onCh": "0~+1s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 28,
+            "name": "C Windmill to Air Tracks",
+            "notation": [
+                "d",
+                "3+4",
+                "in",
+                "time",
+                "with",
+                "the",
+                "rhythm",
+                "d",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low",
+                "Low",
+                "High",
+                "Mid",
+                "Low"
+            ],
+            "damage": 41,
+            "speed": 23,
+            "onBlk": -38,
+            "onHit": "-21s",
+            "onCh": "-21s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 29,
+            "name": "C Windmill to Air Tracks to Chair",
+            "notation": [
+                "d",
+                "3+4",
+                "in",
+                "time",
+                "with",
+                "the",
+                "rhythm",
+                "d",
+                "3+4",
+                "F"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low",
+                "Low",
+                "High",
+                "Mid",
+                "Low"
+            ],
+            "damage": 41,
+            "speed": 23,
+            "onBlk": -61,
+            "onHit": "-44s",
+            "onCh": "-44s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "3+4:d",
+                "3+4",
+                "F",
+                "3+4"
+            ],
+            "hitLevel": [
+                "LowLowLow",
+                "HighMidLow,",
+                "Mid"
+            ],
+            "damage": "10,5,5,7,7,7,30",
+            "onBlk": "-8",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "15",
+            "onBlk": "-16",
+            "onHit": "-5",
+            "onCh": "-2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 43,
+            "name": "Coffee Grinder to Scoot",
+            "notation": [
+                "db",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 18,
+            "onBlk": -1,
+            "onHit": "+3",
+            "onCh": "+12",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 44,
+            "name": "Aerial Arc",
+            "notation": [
+                "db",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 20,
+            "speed": 25,
+            "onBlk": -16,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 45,
+            "name": "Hands Up",
+            "notation": [
+                "b",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 27,
+            "speed": 17,
+            "onBlk": -13,
+            "onHit": "KND",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 46,
+            "name": "Circle Clap",
+            "notation": [
+                "b",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 22,
+            "onBlk": -4,
+            "onHit": "+2s",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 47,
+            "name": "Graceful Turn",
+            "notation": [
+                "b",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 17,
+            "onBlk": -11,
+            "onHit": "+10kg",
+            "onCh": "+10kg",
+            "notes": "Tail spin, Homing",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "3",
+                "B"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-8",
+            "onHit": "+13kg",
+            "onCh": "+13kg",
+            "notes": "Tail spin, Homing",
+            "properties": []
+        },
+        {
+            "number": 48,
+            "name": "Walking Knee",
+            "notation": [
+                "b",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 17,
+            "speed": 16,
+            "onBlk": -8,
+            "onHit": "+8",
+            "onCh": "hKZD",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 49,
+            "name": "Happy Swing",
+            "notation": [
+                "b",
+                "1+2"
+            ],
+            "hitLevel": [
+                "High",
+                "High",
+                "High",
+                "High"
+            ],
+            "damage": 30,
+            "speed": 20,
+            "onBlk": -8,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Power crush",
+            "properties": [
+                "ARMOR"
+            ]
+        },
+        {
+            "number": 50,
+            "name": "Lucky Corkscrew",
+            "notation": [
+                "ub",
+                "4"
+            ],
+            "hitLevel": [
+                "NOBLK"
+            ],
+            "damage": 60,
+            "speed": 76,
+            "onBlk": -22,
+            "onHit": "TFU",
+            "onCh": "TFU",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "3(u",
+                "3(oru/b",
+                "3)"
+            ],
+            "hitLevel": [
+                "Mid",
+                "?"
+            ],
+            "damage": "18(15,12)",
+            "onBlk": "-17",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "13",
+            "onBlk": "-13",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-5",
+            "onHit": "-8",
+            "onCh": "-8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 52,
+            "name": "Double Leg to Left Twist",
+            "notation": [
+                "uf",
+                "3+4",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Low"
+            ],
+            "damage": 32,
+            "speed": 27,
+            "onBlk": -32,
+            "onHit": "+7s",
+            "onCh": "+7s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "3+4",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": "15,15",
+            "onBlk": "-3",
+            "onHit": "+4",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 53,
+            "name": "Double Leg to C Backflip Combo",
+            "notation": [
+                "uf",
+                "3+4",
+                "3+4",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 35,
+            "speed": 27,
+            "onBlk": -16,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 54,
+            "name": "Cat Stamp",
+            "notation": [
+                "f",
+                "F",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 18,
+            "onBlk": -6,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 59,
+            "name": "Air Drop Heel",
+            "notation": [
+                "f",
+                "f",
+                "f",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 27,
+            "speed": 22,
+            "onBlk": "+6",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "10",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 60,
+            "name": "Right Cross Shift",
+            "notation": [
+                "While",
+                "rising",
+                "1",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 20,
+            "speed": 14,
+            "onBlk": -16,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "20",
+            "onBlk": "-13",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 61,
+            "name": "Left Cross Shift",
+            "notation": [
+                "While",
+                "rising",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "24",
+            "onBlk": "-3",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 62,
+            "name": "Hand Snap",
+            "notation": [
+                "While",
+                "crouching",
+                "df",
+                "1"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 15,
+            "speed": 18,
+            "onBlk": -14,
+            "onHit": "+4",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 63,
+            "name": "Spin and Roll",
+            "notation": [
+                "While",
+                "crouching",
+                "df",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 21,
+            "onBlk": -7,
+            "onHit": "+15",
+            "onCh": "+15~+16kg",
+            "notes": "Tail spin",
+            "properties": []
+        },
+        {
+            "number": 64,
+            "name": "Step Up",
+            "notation": [
+                "While",
+                "crouching",
+                "df",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 24,
+            "speed": 17,
+            "onBlk": -17,
+            "onHit": "hKZD",
+            "onCh": "hKZD",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 65,
+            "name": "Cat Tail",
+            "notation": [
+                "During",
+                "sidestep",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 17,
+            "speed": 21,
+            "onBlk": -9,
+            "onHit": "+2",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 74,
+            "name": "Taunt 1",
+            "notation": [
+                "1+2+3"
+            ],
+            "hitLevel": [],
+            "damage": 0,
+            "speed": -1,
+            "onBlk": -192,
+            "onHit": -192,
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 75,
+            "name": "Taunt 2",
+            "notation": [
+                "1+2+4"
+            ],
+            "hitLevel": [],
+            "damage": 0,
+            "speed": -1,
+            "onBlk": -192,
+            "onHit": -192,
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 30,
+            "name": "Left Twist",
+            "notation": [
+                "db",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 17,
+            "speed": 15,
+            "onBlk": -32,
+            "onHit": "+7s",
+            "onCh": "+7s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "3(Afterstanceends)"
+            ],
+            "hitLevel": [
+                "Low,"
+            ],
+            "damage": "17",
+            "onBlk": "-32",
+            "onHit": "-13s",
+            "onCh": "-13s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "3",
+                "b"
+            ],
+            "hitLevel": [
+                "Low,"
+            ],
+            "damage": "17",
+            "onBlk": "-25",
+            "onHit": "-6s",
+            "onCh": "-6s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 31,
+            "name": "Double Twist",
+            "notation": [
+                "db",
+                "3",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low"
+            ],
+            "damage": 29,
+            "speed": 15,
+            "onBlk": -19,
+            "onHit": -8,
+            "onCh": "-8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "12",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 32,
+            "name": "Left Point to C Uprock Hit",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "1",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "Low",
+                "High",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 49,
+            "speed": 15,
+            "onBlk": -11,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 33,
+            "name": "Left Point to C Uprock Clap",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "1",
+                "2",
+                "2"
+            ],
+            "hitLevel": [
+                "Low",
+                "High",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 49,
+            "speed": 15,
+            "onBlk": -4,
+            "onHit": "+2",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 34,
+            "name": "Left Point to C Uprock Swing",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "1",
+                "2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Low",
+                "High",
+                "Mid",
+                "High",
+                "High"
+            ],
+            "damage": 61,
+            "speed": 15,
+            "onBlk": -2,
+            "onHit": "+13kg",
+            "onCh": "KND(+13kg)",
+            "notes": "Homing",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 35,
+            "name": "C Uprock Hit",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 37,
+            "speed": 15,
+            "onBlk": -11,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 36,
+            "name": "C Uprock Clap",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "2",
+                "2"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 37,
+            "speed": 15,
+            "onBlk": -4,
+            "onHit": "+2",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 37,
+            "name": "C Uprock Swing",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid",
+                "High",
+                "High"
+            ],
+            "damage": 49,
+            "speed": 15,
+            "onBlk": -2,
+            "onHit": "+13kg",
+            "onCh": "KND(+13kg)",
+            "notes": "Homing",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": 38,
+            "name": "Left Twist to Axe Heel",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "3"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid"
+            ],
+            "damage": 37,
+            "speed": 15,
+            "onBlk": "+4",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 39,
+            "name": "Left Twist to Scoot",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid"
+            ],
+            "damage": 38,
+            "speed": 15,
+            "onBlk": -18,
+            "onHit": -7,
+            "onCh": "-7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "db",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "15",
+            "onBlk": "-16",
+            "onHit": "+3s",
+            "onCh": "+3s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 40,
+            "name": "Coffee Grinder to Scoot",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "db",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low",
+                "Mid"
+            ],
+            "damage": 17,
+            "speed": 15,
+            "onBlk": -1,
+            "onHit": "+3",
+            "onCh": "+12",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 41,
+            "name": "Left Twist to Right Twist",
+            "notation": [
+                "During",
+                "Left",
+                "Twist",
+                "in",
+                "time",
+                "with",
+                "the",
+                "rhythm",
+                "db",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low"
+            ],
+            "damage": 36,
+            "speed": 15,
+            "onBlk": -21,
+            "onHit": "+1s",
+            "onCh": "+1s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 42,
+            "name": "Right Twist to Left Twist",
+            "notation": [
+                "During",
+                "Right",
+                "Twist",
+                "in",
+                "time",
+                "with",
+                "the",
+                "rhythm",
+                "db",
+                "3"
+            ],
+            "hitLevel": [
+                "Low",
+                "Low",
+                "Low"
+            ],
+            "damage": 36,
+            "speed": 15,
+            "onBlk": -32,
+            "onHit": "+7s",
+            "onCh": "+7s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "F",
+                "4(orfromspecialmove"
+            ],
+            "hitLevel": [
+                "Mid?,"
+            ],
+            "damage": "21",
+            "onBlk": "-1",
+            "onHit": "+3",
+            "onCh": "+12",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Scoot",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-4",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 56,
+            "name": "Double Corkscrew",
+            "notation": [
+                "During",
+                "Scoot",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 38,
+            "speed": 26,
+            "onBlk": "+4",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Scoot",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-3",
+            "onHit": "+4",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 57,
+            "name": "C Backflip Combo",
+            "notation": [
+                "During",
+                "Scoot",
+                "3+4",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 41,
+            "speed": 26,
+            "onBlk": -16,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Scoot",
+                "db",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "13",
+            "onBlk": "-16",
+            "onHit": "-5",
+            "onCh": "-2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 58,
+            "name": "Coffee Grinder to Scoot",
+            "notation": [
+                "During",
+                "Scoot",
+                "db",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Low",
+                "Mid"
+            ],
+            "damage": 36,
+            "speed": 26,
+            "onBlk": -1,
+            "onHit": "+3",
+            "onCh": "+12",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "1(or2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "12",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "20",
+            "onBlk": "-44",
+            "onHit": "-23",
+            "onCh": "-23",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 66,
+            "name": "Donkey Kick",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "3",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 37,
+            "speed": 15,
+            "onBlk": -6,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 67,
+            "name": "C Backflip",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 30,
+            "speed": 23,
+            "onBlk": -10,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "18",
+            "onBlk": "-16",
+            "onHit": "-5",
+            "onCh": "-2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 68,
+            "name": "Turning Coffee Grinder to Scoot",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid"
+            ],
+            "damage": 18,
+            "speed": 19,
+            "onBlk": -1,
+            "onHit": "+3",
+            "onCh": "+12",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 69,
+            "name": "Cat Slide",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 18,
+            "speed": 23,
+            "onBlk": -12,
+            "onHit": "+4s",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "20",
+            "onBlk": "-3",
+            "onHit": "+4",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 70,
+            "name": "C Backflip Combo",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "3+4",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 40,
+            "speed": 28,
+            "onBlk": -15,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 71,
+            "name": "Rollback",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "f",
+                "3+4"
+            ],
+            "hitLevel": [],
+            "damage": 0,
+            "speed": -1,
+            "onBlk": -71,
+            "onHit": -71,
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 72,
+            "name": "C Freeze to Chair",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "f",
+                "3+4",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 37,
+            "speed": 24,
+            "onBlk": -45,
+            "onHit": "CS",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 73,
+            "name": "Kick Up",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "f",
+                "3+4",
+                "3+4",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 58,
+            "speed": 24,
+            "onBlk": -8,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Command"
+            ],
+            "hitLevel": [
+                "Hit LoweveLow"
+            ],
+            "damage": "Damage",
+            "onBlk": "Block frame",
+            "onHit": "Hit frame",
+            "onCh": "Counter hit frame",
+            "notes": "Notes",
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "12",
+            "onBlk": "-4",
+            "onHit": "+7?",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "17",
+            "onBlk": "-7",
+            "onHit": "+4",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 45,
+            "name": "Hands Up",
+            "notation": [
+                "b",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 27,
+            "speed": 17,
+            "onBlk": -13,
+            "onHit": "KND",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 46,
+            "name": "Circle Clap",
+            "notation": [
+                "b",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 22,
+            "onBlk": -4,
+            "onHit": "+2 OC",
+            "onCh": "CS?",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 47,
+            "name": "Graceful Turn",
+            "notation": [
+                "b",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 17,
+            "onBlk": -11,
+            "onHit": "+10kg",
+            "onCh": "+10?kg",
+            "notes": "Tail spin, Homing",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": 48,
+            "name": "Walking Knee",
+            "notation": [
+                "b",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 17,
+            "speed": 16,
+            "onBlk": -8,
+            "onHit": "+8",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "9",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": null,
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 14,
+            "name": "Hopping",
+            "notation": [
+                "f",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 16,
+            "onBlk": -11,
+            "onHit": "+5?",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 15,
+            "name": "Axe Aerial",
+            "notation": [
+                "f",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 14,
+            "speed": 27,
+            "onBlk": -4,
+            "onHit": "+9s",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "F",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "9",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "F",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": null,
+            "onBlk": "–",
+            "onHit": "+",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 54,
+            "name": "Cat Stamp",
+            "notation": [
+                "f",
+                "F",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 18,
+            "onBlk": -6,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 55,
+            "name": "Scoot",
+            "notation": [
+                "f",
+                "F",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 21,
+            "speed": 26,
+            "onBlk": -1,
+            "onHit": "+3",
+            "onCh": "+12",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "1"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "6",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 25,
+            "name": "Waacking",
+            "notation": [
+                "d",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 17,
+            "speed": 16,
+            "onBlk": "+2",
+            "onHit": "+2s",
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "16",
+            "onBlk": "-17",
+            "onHit": "-3",
+            "onCh": "-3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "9",
+            "onBlk": "-13",
+            "onHit": "-2",
+            "onCh": "-2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "1"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "6",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "2"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "10",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 30,
+            "name": "Left Twist",
+            "notation": [
+                "db",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 17,
+            "speed": 15,
+            "onBlk": -32,
+            "onHit": "-13s",
+            "onCh": "+s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "4"
+            ],
+            "hitLevel": [
+                "Low?"
+            ],
+            "damage": "15",
+            "onBlk": "-16",
+            "onHit": "-5",
+            "onCh": "-2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "db(ord",
+                "1"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "6",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "db(ord",
+                "2"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "10",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "16",
+            "onBlk": "-17",
+            "onHit": "-3",
+            "onCh": "-3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "db(ord",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "13",
+            "onBlk": "-15",
+            "onHit": "-4",
+            "onCh": "-4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": null,
+            "onBlk": "-9?",
+            "onHit": "+6",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "2"
+            ],
+            "hitLevel": null,
+            "damage": null,
+            "onBlk": "-13?",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 61,
+            "name": "Left Cross Shift",
+            "notation": [
+                "While",
+                "rising",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "24",
+            "onBlk": "-3?",
+            "onHit": "+8?",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": null,
+            "onBlk": "-1",
+            "onHit": "+6",
+            "onCh": "+6?",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "2"
+            ],
+            "hitLevel": [
+                "?"
+            ],
+            "damage": "14",
+            "onBlk": "-13",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": null,
+            "onBlk": "-14",
+            "onHit": "-3",
+            "onCh": "-?",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 24,
+            "name": "Down Step",
+            "notation": [
+                "df",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 23,
+            "speed": 27,
+            "onBlk": -12,
+            "onHit": "+7s",
+            "onCh": "+?s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "16",
+            "onBlk": "-8",
+            "onHit": "+3",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "22",
+            "onBlk": "-12",
+            "onHit": "+9",
+            "onCh": "+9",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 51,
+            "name": "Surprise Hop",
+            "notation": [
+                "uf",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 18,
+            "speed": 15,
+            "onBlk": -17,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 50,
+            "name": "Lucky Corkscrew",
+            "notation": [
+                "ub",
+                "4"
+            ],
+            "hitLevel": [
+                "NOBLK"
+            ],
+            "damage": 60,
+            "speed": 76,
+            "onBlk": -22,
+            "onHit": "TFU",
+            "onCh": "TFU",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "u",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-13?",
+            "onHit": "KND",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "13",
+            "onBlk": "-13",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "12",
+            "onBlk": "-4",
+            "onHit": "+7?",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "17",
+            "onBlk": "-7",
+            "onHit": "+4",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 65,
+            "name": "Cat Tail",
+            "notation": [
+                "During",
+                "sidestep",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 17,
+            "speed": 21,
+            "onBlk": -9,
+            "onHit": "+2",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "20",
+            "onBlk": "-8",
+            "onHit": "+3",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "20",
+            "onBlk": "–",
+            "onHit": "-23a",
+            "onCh": "+a",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 67,
+            "name": "C Backflip",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 30,
+            "speed": 23,
+            "onBlk": -10,
+            "onHit": "KND",
+            "onCh": "KND?",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "3+4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "25",
+            "onBlk": "-8",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "1(or2"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "10",
+            "onBlk": "-2",
+            "onHit": "+9",
+            "onCh": "+9",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "12",
+            "onBlk": "-11",
+            "onHit": "+3",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "18",
+            "onBlk": "–",
+            "onHit": "+",
+            "onCh": "+",
+            "notes": null,
+            "properties": []
+        }
+    ]
+}
