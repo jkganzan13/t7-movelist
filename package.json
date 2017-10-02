@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/jkganzan13/t7-movelist#readme",
   "dependencies": {
+    "fs-extra": "^4.0.2",
     "ramda": "^0.24.1"
   }
 }

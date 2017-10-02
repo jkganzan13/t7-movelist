@@ -189,7 +189,7 @@
     "on_ch": "CS",
     "notes": null
   }, {
-    "notation": "d/f+1, b",
+    "notation": "d/f+1, B",
     "hit_level": "m, (Special)",
     "damage": "13",
     "speed": "14",
@@ -333,7 +333,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "d+4, 2:1+2",
+    "notation": "d+4, 2, 1+2",
     "hit_level": "l, m, m",
     "damage": "9,23,25",
     "speed": "15",
@@ -513,6 +513,15 @@
     "on_ch": "KND",
     "notes": null
   }, {
+    "notation": "f, F+2 When hit 1",
+    "hit_level": "m, m",
+    "damage": "14,20",
+    "speed": "15~17 (16~)",
+    "on_block": "-12",
+    "on_hit": "KND",
+    "on_ch": "KND",
+    "notes": null
+  }, {
     "notation": "f, F+2, 1, B (Cancel)",
     "hit_level": "m, (Special)",
     "damage": "14",
@@ -576,7 +585,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, F+3, 4, f or d/f+4",
+    "notation": "f, F+3, 4, f+4",
     "hit_level": "m (TJ), m (TJ), m",
     "damage": "14,15,18",
     "speed": "1~",
@@ -585,7 +594,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, F+3, 4, d or d/b+4",
+    "notation": "f, F+3, 4, d+4",
     "hit_level": "m (TJ), m (TJ), l (TC)",
     "damage": "14,15,15",
     "speed": "s cs20~",
@@ -612,7 +621,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "b, B+1+2",
+    "notation": "b, B+1+2, (, u, u, to, cancel)",
     "hit_level": "!",
     "damage": "80",
     "speed": "63~64 (64~)",
@@ -693,7 +702,7 @@
     "on_ch": "Launch",
     "notes": null
   }, {
-    "notation": "D(Hundred and sixty frames)n, u+3+4 (On the way down)",
+    "notation": "FC+D, (, 1, sec), u+3+4",
     "hit_level": "m (TJ), m",
     "damage": "48",
     "speed": "46~56d js1~",
