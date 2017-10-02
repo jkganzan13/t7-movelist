@@ -474,7 +474,7 @@
             "notation": [
                 "df",
                 "3",
-                "4*"
+                "4Hold"
             ],
             "hitLevel": [
                 "Mid",
@@ -835,7 +835,7 @@
             "notation": [
                 "b",
                 "2",
-                "1*"
+                "1Hold"
             ],
             "hitLevel": [
                 "Mid",
@@ -1559,23 +1559,23 @@
             "properties": []
         },
         {
-            "number": null,
-            "name": null,
+            "number": 57,
+            "name": "Down Strike",
             "notation": [
                 "(While",
                 "enemy",
                 "is",
                 "down)",
-                "",
                 "d",
                 "2"
             ],
             "hitLevel": [
                 "Low"
             ],
-            "damage": "16",
-            "onBlk": "-12",
-            "onHit": "+4",
+            "damage": 16,
+            "speed": 18,
+            "onBlk": -12,
+            "onHit": -1,
             "onCh": "+4",
             "notes": null,
             "properties": []

@@ -8,7 +8,7 @@ const charsWithLength = R.filter(hasLength, map_chars);
 charsWithLength.forEach((char) => {
 	const output = require(`../t7/${char.c}.json`);
 	let notFound = [];
-	for(let i = 1; i < char['length']; i++) {
+	for(let i = 1; i <= char['length']; i++) {
 		const move = R.find(R.propEq('number', i))(output.moves);
 		if(!move) notFound.push(i);
 	}

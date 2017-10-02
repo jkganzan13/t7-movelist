@@ -145,7 +145,9 @@ function convertRbnMoves(notation) {
 		replaceSS,
 		replaceStances,
 		replaceBT,
+		replaceCH,
 		replaceOpponentDown,
+		replaceHold,
 		replaceGrounded,
 		replaceFaceUp,
 		replaceTilde,
@@ -153,7 +155,7 @@ function convertRbnMoves(notation) {
 		trimSpaces,
 	);
 	const moveStr = convertMoves(notation);
-	return moveStr.split(',');
+	return R.reject(R.isEmpty, moveStr.split(','));
 }
 
 const isLetter = val => val.toLowerCase() !== val.toUpperCase();
@@ -301,6 +303,14 @@ function replaceFaceUp(str) {
 	return str.replace('face up', '(facing, up),')
 }
 
+function replaceCH(str) {
+  return str.replace('CH', 'During, Counter, Hit,');
+}
+
+function replaceHold(str) {
+  return str.replace('*', 'Hold,')
+}
+
 function trimSpaces(str) {
 	return str.replace(/\s/g, '')
 }
@@ -315,6 +325,7 @@ function trimSpaces(str) {
 function replaceStances(str) {
 	return R.pipe(
 		replaceAlisaStance,
+    replaceAsukaStance,
 	)(str)
 }
 
@@ -323,5 +334,11 @@ function replaceAlisaStance(str) {
 		.replace(/DES\s/, 'During, Destructive, Form,')
 		.replace(/SBT\s/, 'During, Boot,')
 		.replace(/DBT\s/, 'During, Dual, Boot,')
-
 }
+
+function replaceAsukaStance(str) {
+  return str.replace(/LCT/, 'During, Leg, Cutter,')
+}
+
+console.log(convertRbnMoves('f+3, *'))
+console.log(getCommands(' Hold'))

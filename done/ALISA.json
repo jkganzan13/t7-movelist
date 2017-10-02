@@ -191,7 +191,7 @@
             "notation": [
                 "1",
                 "2",
-                "2*"
+                "2Hold"
             ],
             "hitLevel": [
                 "High",
@@ -2202,7 +2202,8 @@
                 "While",
                 "rising",
                 "1+2",
-                "*(twospins)"
+                "Hold",
+                "(twospins)"
             ],
             "hitLevel": [
                 "Mid"
@@ -2221,7 +2222,8 @@
                 "While",
                 "rising",
                 "1+2",
-                "*(threespins)"
+                "Hold",
+                "(threespins)"
             ],
             "hitLevel": [
                 "Mid"
@@ -3116,7 +3118,7 @@
                 "Form",
                 "d",
                 "2",
-                "*"
+                "Hold"
             ],
             "hitLevel": [
                 "Low x 5 or 6"
