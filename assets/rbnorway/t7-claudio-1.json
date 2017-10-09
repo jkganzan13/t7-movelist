@@ -54,7 +54,7 @@
     "on_ch": "-5",
     "notes": null
   }, {
-    "notation": "2, 1, 2",
+    "notation": "2, 1, 2, (must, hit)",
     "hit_level": "h, m, m(, (Special))(STB)",
     "damage": "10,13,25",
     "speed": "12",
@@ -108,7 +108,7 @@
     "on_ch": null,
     "notes": null
   }, {
-    "notation": "1+2 When hit 1+2 When hit , b or f+2",
+    "notation": "1+2 When hit 1+2 When hit f+2",
     "hit_level": "m, (throw), (throw), (STB)",
     "damage": "20,20,18",
     "speed": "17",
@@ -153,7 +153,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f+2, 2",
+    "notation": "f+2, 2, (must, hit)",
     "hit_level": "h, m(, (Special))(STB)",
     "damage": "9,20",
     "speed": "12",
@@ -279,7 +279,7 @@
     "on_ch": "0",
     "notes": null
   }, {
-    "notation": "d+1+2 or BT 1+2",
+    "notation": "d+1+2",
     "hit_level": "m?",
     "damage": "28",
     "speed": "13~14",
@@ -342,7 +342,7 @@
     "on_ch": "KND",
     "notes": "Tail spin, Homing"
   }, {
-    "notation": "b+2",
+    "notation": "b+2, (must, hit)",
     "hit_level": "h?(, (Special))(STB)",
     "damage": "30",
     "speed": "14~15",
@@ -369,7 +369,7 @@
     "on_ch": "-3",
     "notes": null
   }, {
-    "notation": "b+4, 2",
+    "notation": "b+4, 2, (must, hit)",
     "hit_level": "m, m(, (Special))(STB)",
     "damage": "10,20",
     "speed": "17",
@@ -477,7 +477,7 @@
     "on_ch": "-7~-5",
     "notes": null
   }, {
-    "notation": "f, F+2, 2 or FC+d/f+2, 2",
+    "notation": "f, F+2, 2",
     "hit_level": "m, h",
     "damage": "14,14",
     "speed": "14~16 (15~)",
@@ -486,7 +486,7 @@
     "on_ch": "+6~+7s",
     "notes": null
   }, {
-    "notation": "f, F+2, 1+2 or FC+d/f+2, 1+2",
+    "notation": "f, F+2, 1+2, (must, hit)",
     "hit_level": "m, m(, (Special))(STB)",
     "damage": "14,20",
     "speed": "14~16 (15~)",
@@ -504,7 +504,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, f, f+2",
+    "notation": "f, f, f+2, (must, hit)",
     "hit_level": "h(, (Special))(STB)",
     "damage": "40",
     "speed": "13~16 (16~) js3~",
@@ -531,7 +531,7 @@
     "on_ch": "+9",
     "notes": null
   }, {
-    "notation": "WS+2",
+    "notation": "WS+2, (must, hit)",
     "hit_level": "m(, (Special))(STB)",
     "damage": "20",
     "speed": "15~16",

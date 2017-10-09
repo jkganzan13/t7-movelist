@@ -1,0 +1,3410 @@
+{
+    "number": 16,
+    "name": "DRAGUNOV",
+    "fullName": "Sergei Dragunov",
+    "moves": [
+        {
+            "number": 1,
+            "name": "Rage Art",
+            "notation": [
+                "During",
+                "Rage",
+                "d",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 55,
+            "speed": 20,
+            "onBlk": -22,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Rage art",
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "Rage",
+                "f",
+                "f",
+                "f",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "30",
+            "onBlk": "+5s",
+            "onHit": "Launch",
+            "onCh": "Launch",
+            "notes": "Rage art",
+            "properties": []
+        },
+        {
+            "number": 2,
+            "name": "Rage Drive",
+            "notation": [
+                "During",
+                "Rage",
+                "f",
+                "f",
+                "f",
+                "1+2",
+                "db",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 30,
+            "speed": 15,
+            "onBlk": -6,
+            "onHit": "中Throw",
+            "onCh": "中Throw(KND)",
+            "notes": "Rage art",
+            "properties": [
+                "THROW"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1",
+                "1"
+            ],
+            "hitLevel": [
+                "High",
+                "High"
+            ],
+            "damage": "7,8",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 3,
+            "name": "Eye Gouge to Hilt",
+            "notation": [
+                "1",
+                "1",
+                "3"
+            ],
+            "hitLevel": [
+                "High",
+                "High",
+                "Mid"
+            ],
+            "damage": 37,
+            "speed": 10,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1",
+                "2"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid"
+            ],
+            "damage": "7,8",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 4,
+            "name": "Salvo",
+            "notation": [
+                "1",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 35,
+            "speed": 10,
+            "onBlk": -14,
+            "onHit": "KND",
+            "onCh": "uKZD",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1",
+                "3"
+            ],
+            "hitLevel": [
+                "High",
+                "High"
+            ],
+            "damage": "7,14",
+            "onBlk": "-7",
+            "onHit": "+1",
+            "onCh": "+9",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 5,
+            "name": "Hammer and Sickle",
+            "notation": [
+                "1",
+                "3",
+                "2"
+            ],
+            "hitLevel": [
+                "High",
+                "High",
+                "Mid"
+            ],
+            "damage": 41,
+            "speed": 10,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1",
+                "3",
+                "【",
+                "2",
+                "1",
+                "】+2"
+            ],
+            "hitLevel": [
+                "High",
+                "High",
+                "High"
+            ],
+            "damage": "7,14,35",
+            "onBlk": null,
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1",
+                "3",
+                "【",
+                "2",
+                "1",
+                "】+2B(Cancel)"
+            ],
+            "hitLevel": [
+                "High",
+                "High,"
+            ],
+            "damage": "7,14",
+            "onBlk": "-32",
+            "onHit": "-24",
+            "onCh": "-16",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "10",
+            "onBlk": "0",
+            "onHit": "+9",
+            "onCh": "+9",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "High",
+                "High"
+            ],
+            "damage": "10,8",
+            "onBlk": "-2",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 6,
+            "name": "One Two Scud Kick",
+            "notation": [
+                "2",
+                "1",
+                "3"
+            ],
+            "hitLevel": [
+                "High",
+                "High",
+                "High"
+            ],
+            "damage": 42,
+            "speed": 10,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 7,
+            "name": "One Two Mine Kick",
+            "notation": [
+                "2",
+                "1",
+                "4"
+            ],
+            "hitLevel": [
+                "High",
+                "High",
+                "Low"
+            ],
+            "damage": 18,
+            "speed": 10,
+            "onBlk": -12,
+            "onHit": "+3s",
+            "onCh": "+3s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "10",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "3",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High"
+            ],
+            "damage": "10,8",
+            "onBlk": "-2",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 8,
+            "name": "Disconnector",
+            "notation": [
+                "3",
+                "1",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High",
+                "Mid"
+            ],
+            "damage": 42,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "15",
+            "onBlk": "-9",
+            "onHit": "-1",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 9,
+            "name": "Karnov Hook",
+            "notation": [
+                "4",
+                "1"
+            ],
+            "hitLevel": [
+                "High",
+                "High"
+            ],
+            "damage": 27,
+            "speed": 12,
+            "onBlk": -6,
+            "onHit": "+8",
+            "onCh": "+8~+9",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 10,
+            "name": "Karnov Kick",
+            "notation": [
+                "4",
+                "3"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid"
+            ],
+            "damage": 35,
+            "speed": 12,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 11,
+            "name": "Karnov Avalanche",
+            "notation": [
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid"
+            ],
+            "damage": 43,
+            "speed": 12,
+            "onBlk": "+3",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Tail spin",
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": 12,
+            "name": "Bloodhound Strike",
+            "notation": [
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 21,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "TUKD",
+            "notes": "Power crush",
+            "properties": [
+                "ARMOR"
+            ]
+        },
+        {
+            "number": 13,
+            "name": "Iron Flail",
+            "notation": [
+                "3+4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 25,
+            "speed": 25,
+            "onBlk": -14,
+            "onHit": "CS",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "3+4",
+                "Anybutton"
+            ],
+            "hitLevel": [
+                "High,"
+            ],
+            "damage": "25",
+            "onBlk": "-24",
+            "onHit": "CS",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "16",
+            "onBlk": "-8",
+            "onHit": "+3",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 14,
+            "name": "Stun Gun",
+            "notation": [
+                "f",
+                "2",
+                "4"
+            ],
+            "hitLevel": [
+                "High",
+                "Mid"
+            ],
+            "damage": 40,
+            "speed": 19,
+            "onBlk": -7,
+            "onHit": "KND",
+            "onCh": "uKZD",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "11",
+            "onBlk": "-6",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 15,
+            "name": "High Salute to Sneak",
+            "notation": [
+                "f",
+                "3",
+                "DF"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 11,
+            "speed": 20,
+            "onBlk": -11,
+            "onHit": -3,
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 16,
+            "name": "Step-in Bardiche",
+            "notation": [
+                "f",
+                "3",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High"
+            ],
+            "damage": 31,
+            "speed": 20,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Tail spin",
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": 17,
+            "name": "Step-in Mantis",
+            "notation": [
+                "f",
+                "3",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 45,
+            "speed": 20,
+            "onBlk": -12,
+            "onHit": "Throw",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 17,
+            "name": "Step-in Mantis",
+            "notation": [
+                "f",
+                "3",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 45,
+            "speed": 20,
+            "onBlk": -12,
+            "onHit": "-1",
+            "onCh": "+4~+7s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "16",
+            "onBlk": "-7",
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "High",
+                "High"
+            ],
+            "damage": "16,14",
+            "onBlk": "-11",
+            "onHit": "0",
+            "onCh": "Launch",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 18,
+            "name": "Cougar Combination",
+            "notation": [
+                "f",
+                "4",
+                "4",
+                "3"
+            ],
+            "hitLevel": [
+                "High",
+                "High",
+                "High"
+            ],
+            "damage": 50,
+            "speed": 14,
+            "onBlk": -5,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 19,
+            "name": "Cougar Maul",
+            "notation": [
+                "f",
+                "4",
+                "d",
+                "4"
+            ],
+            "hitLevel": [
+                "High",
+                "Low"
+            ],
+            "damage": 28,
+            "speed": 14,
+            "onBlk": -12,
+            "onHit": "+3s",
+            "onCh": "+3s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 20,
+            "name": "Scabbard",
+            "notation": [
+                "f",
+                "1+2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 20,
+            "speed": 17,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Tail spin",
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "13",
+            "onBlk": "-2",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 21,
+            "name": "Switchblade Ripper",
+            "notation": [
+                "df",
+                "1",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High"
+            ],
+            "damage": 36,
+            "speed": 13,
+            "onBlk": -7,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 22,
+            "name": "Scimitar",
+            "notation": [
+                "df",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 14,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "3(Close)"
+            ],
+            "hitLevel": [
+                "Mid)"
+            ],
+            "damage": "16(,20)",
+            "onBlk": "-6",
+            "onHit": "Throw",
+            "onCh": "Throw",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 23,
+            "name": "Mantis Heel",
+            "notation": [
+                "df",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 36,
+            "speed": 17,
+            "onBlk": -6,
+            "onHit": "+5",
+            "onCh": "+10~+13s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "14",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "1+2(orWhile",
+                "crouching",
+                "d/f",
+                "1+2"
+            ],
+            "hitLevel": [
+                ""
+            ],
+            "damage": "20～",
+            "onBlk": null,
+            "onHit": "Attack returned",
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 24,
+            "name": "Bunker-buster Elbow",
+            "notation": [
+                "d",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 18,
+            "speed": 18,
+            "onBlk": 0,
+            "onHit": "+7",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 25,
+            "name": "Razer",
+            "notation": [
+                "d",
+                "2"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 17,
+            "speed": 18,
+            "onBlk": -13,
+            "onHit": "0",
+            "onCh": "+13~+14g",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "13",
+            "onBlk": "-16",
+            "onHit": "-4",
+            "onCh": "0",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 26,
+            "name": "March of Tyranny",
+            "notation": [
+                "d",
+                "3",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "Mid"
+            ],
+            "damage": 31,
+            "speed": 17,
+            "onBlk": -11,
+            "onHit": "+5",
+            "onCh": "+23g(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "12",
+            "onBlk": "-15",
+            "onHit": "-9",
+            "onCh": "-4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "4",
+                "1"
+            ],
+            "hitLevel": [
+                "Low",
+                "High"
+            ],
+            "damage": "12,8",
+            "onBlk": "-11",
+            "onHit": "+5",
+            "onCh": "+5",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 27,
+            "name": "Separator",
+            "notation": [
+                "d",
+                "4",
+                "1",
+                "3"
+            ],
+            "hitLevel": [
+                "Low",
+                "High",
+                "High"
+            ],
+            "damage": 41,
+            "speed": 15,
+            "onBlk": -16,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 28,
+            "name": "Stiletto",
+            "notation": [
+                "d",
+                "4",
+                "4"
+            ],
+            "hitLevel": [
+                "Low",
+                "High"
+            ],
+            "damage": 35,
+            "speed": 15,
+            "onBlk": -15,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "12",
+            "onBlk": "-7",
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": "12,10",
+            "onBlk": "-10",
+            "onHit": "+1",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 29,
+            "name": "Death's Door",
+            "notation": [
+                "db",
+                "2",
+                "1",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 42,
+            "speed": 14,
+            "onBlk": -14,
+            "onHit": "uKZD",
+            "onCh": "uKZD",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 31,
+            "name": "Clipping Heel Hook",
+            "notation": [
+                "db",
+                "3",
+                "(close-range",
+                "counter",
+                "hit",
+                "only)"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 55,
+            "speed": 24,
+            "onBlk": -26,
+            "onHit": "KND",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 30,
+            "name": "Clipping Sweep",
+            "notation": [
+                "db",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 21,
+            "speed": 25,
+            "onBlk": -26,
+            "onHit": "-7",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 32,
+            "name": "Clipping Sweep to Feint & Catch",
+            "notation": [
+                "Approach",
+                "(crouching",
+                "enemy)",
+                "db",
+                "3",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 45,
+            "speed": 37,
+            "onBlk": "+23",
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": [
+                "THROW"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "14",
+            "onBlk": "-10",
+            "onHit": "+1",
+            "onCh": "+1",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 33,
+            "name": "Pommel Swing",
+            "notation": [
+                "b",
+                "1",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 32,
+            "speed": 17,
+            "onBlk": -13,
+            "onHit": "+9",
+            "onCh": "KND",
+            "notes": "Tail spin",
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "14",
+            "onBlk": "-3",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High"
+            ],
+            "damage": "14,11",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 34,
+            "name": "Eye Gouge to Stingray",
+            "notation": [
+                "b",
+                "2",
+                "1",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High",
+                "Low"
+            ],
+            "damage": 25,
+            "speed": 15,
+            "onBlk": -26,
+            "onHit": "KND",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "2",
+                "1",
+                "3(Far)"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High",
+                "Low"
+            ],
+            "damage": "14,11,16",
+            "onBlk": "-26",
+            "onHit": "-7",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "2",
+                "1",
+                "【",
+                "3",
+                "1",
+                "】+2(Cancel)"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High",
+                "Low"
+            ],
+            "damage": "14,11,45",
+            "onBlk": null,
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "2",
+                "1",
+                "【",
+                "3",
+                "1",
+                "】+2",
+                "d(Cancel)"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High,"
+            ],
+            "damage": "14,11",
+            "onBlk": "-36",
+            "onHit": "-25",
+            "onCh": "-25",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 35,
+            "name": "Serrated Edge",
+            "notation": [
+                "b",
+                "3"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 17,
+            "speed": 14,
+            "onBlk": -9,
+            "onHit": "+11",
+            "onCh": "+11~+12kg",
+            "notes": "Homing, Tail spin",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "4",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": "15,15",
+            "onBlk": "-7",
+            "onHit": "+4s",
+            "onCh": "+5s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "4",
+                "2",
+                "D"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": "15,15",
+            "onBlk": "-7",
+            "onHit": "+4s",
+            "onCh": "+5s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 36,
+            "name": "Death March to Ear Grab",
+            "notation": [
+                "b",
+                "4",
+                "2",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "High"
+            ],
+            "damage": 47,
+            "speed": 15,
+            "onBlk": "+1",
+            "onHit": "+5",
+            "onCh": "+5~+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 37,
+            "name": "Death March to Takedown",
+            "notation": [
+                "b",
+                "4",
+                "2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 35,
+            "speed": 15,
+            "onBlk": -23,
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": [
+                "THROW"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "4",
+                "2",
+                "1+2",
+                "1(or2or3or4(Cancel)"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid,"
+            ],
+            "damage": "15,15",
+            "onBlk": "-50",
+            "onHit": "-39s",
+            "onCh": "-38s",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 38,
+            "name": "War Machine",
+            "notation": [
+                "b",
+                "4",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High"
+            ],
+            "damage": 37,
+            "speed": 15,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Tail spin",
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": 39,
+            "name": "Blizzard Hammer",
+            "notation": [
+                "b",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 26,
+            "speed": 22,
+            "onBlk": "+6",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 40,
+            "name": "Inertia Kick",
+            "notation": [
+                "b",
+                "3+4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 22,
+            "speed": 28,
+            "onBlk": -2,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 41,
+            "name": "Sub-Zero",
+            "notation": [
+                "b",
+                "2+3"
+            ],
+            "hitLevel": [
+                "NOBLK"
+            ],
+            "damage": 60,
+            "speed": 63,
+            "onBlk": -22,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 42,
+            "name": "Counterstrike",
+            "notation": [
+                "ub",
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 18,
+            "speed": 20,
+            "onBlk": -5,
+            "onHit": "+9",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 43,
+            "name": "Eye Blast",
+            "notation": [
+                "uf",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 18,
+            "speed": 16,
+            "onBlk": -7,
+            "onHit": "+9",
+            "onCh": "uKZD",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 44,
+            "name": "Under Pressure",
+            "notation": [
+                "uf",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 20,
+            "speed": 30,
+            "onBlk": -5,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "ub",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "21",
+            "onBlk": "-17",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "u",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "21",
+            "onBlk": "-13",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 45,
+            "name": "Slicing Sobat",
+            "notation": [
+                "uf",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 21,
+            "speed": 22,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 46,
+            "name": "Scorpion Scissors",
+            "notation": [
+                "uf",
+                "3+4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 36,
+            "speed": 38,
+            "onBlk": -12,
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": [
+                "THROW"
+            ]
+        },
+        {
+            "number": 47,
+            "name": "Russian Sickle",
+            "notation": [
+                "f",
+                "F",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 20,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 48,
+            "name": "Feint & Catch",
+            "notation": [
+                "f",
+                "F",
+                "2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 35,
+            "speed": 43,
+            "onBlk": -18,
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": [
+                "THROW"
+            ]
+        },
+        {
+            "number": 49,
+            "name": "Stinger Kick",
+            "notation": [
+                "f",
+                "F",
+                "3"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 35,
+            "speed": 21,
+            "onBlk": "+3",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Homing, Tail spin",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": 50,
+            "name": "Rolling Thunder",
+            "notation": [
+                "f",
+                "F",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 21,
+            "speed": 26,
+            "onBlk": -1,
+            "onHit": "+3",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 56,
+            "name": "Mass Elbow",
+            "notation": [
+                "d",
+                "db",
+                "b",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 23,
+            "speed": 26,
+            "onBlk": -15,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 57,
+            "name": "Russian Assault",
+            "notation": [
+                "f",
+                "f",
+                "f",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 15,
+            "onBlk": "+5",
+            "onHit": "KND",
+            "onCh": "TFU",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 58,
+            "name": "Spetsnaz Assault",
+            "notation": [
+                "f",
+                "f",
+                "f",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 50,
+            "speed": 20,
+            "onBlk": -7,
+            "onHit": "Throw",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 59,
+            "name": "Chernobog Sweep",
+            "notation": [
+                "Run",
+                "more",
+                "than",
+                "3",
+                "steps",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 40,
+            "speed": 17,
+            "onBlk": -14,
+            "onHit": "Throw",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "WR",
+                "3(Far)"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "20",
+            "onBlk": "-14",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "12",
+            "onBlk": "-3",
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 60,
+            "name": "Qullion",
+            "notation": [
+                "While",
+                "rising",
+                "1",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High"
+            ],
+            "damage": 30,
+            "speed": 12,
+            "onBlk": -7,
+            "onHit": "+10",
+            "onCh": "KND",
+            "notes": "Tail spin",
+            "properties": [
+                "TAIL SPIN"
+            ]
+        },
+        {
+            "number": 61,
+            "name": "Double Hilt",
+            "notation": [
+                "While",
+                "rising",
+                "1",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "Mid"
+            ],
+            "damage": 32,
+            "speed": 12,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 62,
+            "name": "Ballistic Upper",
+            "notation": [
+                "While",
+                "rising",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 63,
+            "name": "Glacial Hilt",
+            "notation": [
+                "While",
+                "rising",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 21,
+            "speed": 16,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 64,
+            "name": "Frost Tackle",
+            "notation": [
+                "While",
+                "rising",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 28,
+            "speed": 12,
+            "onBlk": -15,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "16",
+            "onBlk": "-10",
+            "onHit": "-4",
+            "onCh": "+1",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 65,
+            "name": "Integral Slicer",
+            "notation": [
+                "During",
+                "sidestep",
+                "2",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High"
+            ],
+            "damage": 33,
+            "speed": 20,
+            "onBlk": -9,
+            "onHit": "+5",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "HighMid"
+            ],
+            "damage": "16,8,12",
+            "onBlk": "-4",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 66,
+            "name": "Integral Blitz",
+            "notation": [
+                "During",
+                "sidestep",
+                "2",
+                "1+2",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High",
+                "Mid",
+                "High"
+            ],
+            "damage": 56,
+            "speed": 20,
+            "onBlk": -10,
+            "onHit": "CS",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 67,
+            "name": "Integral Takedown",
+            "notation": [
+                "During",
+                "sidestep",
+                "2",
+                "1+2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid",
+                "High",
+                "Mid",
+                "Mid"
+            ],
+            "damage": 33,
+            "speed": 20,
+            "onBlk": -23,
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": [
+                "THROW"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "2",
+                "1+2",
+                "1+2",
+                "1(or2or3or4(Cancel)"
+            ],
+            "hitLevel": [
+                "Mid",
+                "HighMid,"
+            ],
+            "damage": "16,8,12",
+            "onBlk": "-51",
+            "onHit": "-45",
+            "onCh": "-45",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 68,
+            "name": "Pigeon Roll",
+            "notation": [
+                "During",
+                "sidestep",
+                "3+4"
+            ],
+            "hitLevel": [],
+            "damage": 0,
+            "speed": -1,
+            "onBlk": -95,
+            "onHit": -95,
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 69,
+            "name": "Cane Stab",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 20,
+            "speed": 16,
+            "onBlk": -11,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 70,
+            "name": "Living Dead",
+            "notation": [
+                "While",
+                "down",
+                "(facing",
+                "down)",
+                "1+2"
+            ],
+            "hitLevel": [],
+            "damage": 0,
+            "speed": -1,
+            "onBlk": -81,
+            "onHit": -81,
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 71,
+            "name": "Death's Embrace",
+            "notation": [
+                "While",
+                "down",
+                "(facing",
+                "down)",
+                "1+2",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 5,
+            "speed": 30,
+            "onBlk": -23,
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": [
+                "THROW"
+            ]
+        },
+        {
+            "number": 72,
+            "name": "Six Feet Under",
+            "notation": [
+                "(While",
+                "enemy",
+                "is",
+                "down)",
+                "d",
+                "3+4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 19,
+            "speed": 24,
+            "onBlk": -11,
+            "onHit": 0,
+            "onCh": "0",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "df",
+                "f"
+            ],
+            "hitLevel": [
+                ""
+            ],
+            "damage": null,
+            "onBlk": null,
+            "onHit": null,
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 51,
+            "name": "Cocked Hammer",
+            "notation": [
+                "d",
+                "df",
+                "f",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 20,
+            "speed": 15,
+            "onBlk": -3,
+            "onHit": "CS",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 52,
+            "name": "Stinger Elbow",
+            "notation": [
+                "d",
+                "df",
+                "f",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 25,
+            "speed": 18,
+            "onBlk": -13,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 53,
+            "name": "Slay Ride",
+            "notation": [
+                "d",
+                "df",
+                "f",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 17,
+            "speed": 17,
+            "onBlk": -14,
+            "onHit": -5,
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "df",
+                "f",
+                "3(Far)"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "17",
+            "onBlk": "-14",
+            "onHit": "-5",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 54,
+            "name": "Snap Knee",
+            "notation": [
+                "d",
+                "df",
+                "f",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 35,
+            "speed": 17,
+            "onBlk": -10,
+            "onHit": "Throw",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 55,
+            "name": "Pinpoint Fracture",
+            "notation": [
+                "d",
+                "df",
+                "f",
+                "4",
+                "during",
+                "hit",
+                "1",
+                "3",
+                "4",
+                "2",
+                "(or",
+                "2",
+                "4",
+                "3",
+                "1",
+                ")"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 55,
+            "speed": 17,
+            "onBlk": "+34",
+            "onHit": "Throw",
+            "onCh": null,
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "df",
+                "f",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "28",
+            "onBlk": "-15",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Command"
+            ],
+            "hitLevel": [
+                "Hit LoweveLow"
+            ],
+            "damage": "Damage",
+            "onBlk": "Block frame",
+            "onHit": "Hit frame",
+            "onCh": "Counter hit frame",
+            "notes": "Notes",
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "10",
+            "onBlk": "0",
+            "onHit": "+9",
+            "onCh": "+9",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "10",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "15",
+            "onBlk": "-9",
+            "onHit": "+1",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "14",
+            "onBlk": "-8",
+            "onHit": "+3",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "14",
+            "onBlk": "-3",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 35,
+            "name": "Serrated Edge",
+            "notation": [
+                "b",
+                "3"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 17,
+            "speed": 14,
+            "onBlk": -9,
+            "onHit": "+k",
+            "onCh": "+k",
+            "notes": "Homing, Tail spin",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "b",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "16",
+            "onBlk": "-8",
+            "onHit": "+3",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "11",
+            "onBlk": "-7",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "16",
+            "onBlk": "-7",
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "f",
+                "F",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 47,
+            "name": "Russian Sickle",
+            "notation": [
+                "f",
+                "F",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 20,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 49,
+            "name": "Stinger Kick",
+            "notation": [
+                "f",
+                "F",
+                "3"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 35,
+            "speed": 21,
+            "onBlk": "+3",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": "Homing, Tail spin",
+            "properties": [
+                "TAIL SPIN",
+                "TRACK"
+            ]
+        },
+        {
+            "number": 50,
+            "name": "Rolling Thunder",
+            "notation": [
+                "f",
+                "F",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 21,
+            "speed": 26,
+            "onBlk": -1,
+            "onHit": "+3",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 24,
+            "name": "Bunker-buster Elbow",
+            "notation": [
+                "d",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 18,
+            "speed": 18,
+            "onBlk": 0,
+            "onHit": "+7 OC",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 25,
+            "name": "Razer",
+            "notation": [
+                "d",
+                "2"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 17,
+            "speed": 18,
+            "onBlk": -13,
+            "onHit": "0s",
+            "onCh": "+10~gs?",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "13",
+            "onBlk": "-16",
+            "onHit": "-4",
+            "onCh": "0 OC",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "d",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "12",
+            "onBlk": "-15",
+            "onHit": "-9",
+            "onCh": "-4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "1"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "5",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "12",
+            "onBlk": "-7",
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 30,
+            "name": "Clipping Sweep",
+            "notation": [
+                "db",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 21,
+            "speed": 25,
+            "onBlk": -26,
+            "onHit": "KND",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "3(Far)"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "14",
+            "onBlk": "-18",
+            "onHit": "-7",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "db",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "7",
+            "onBlk": "-13",
+            "onHit": "-2",
+            "onCh": "-2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "1"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "5",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "2"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "8",
+            "onBlk": "-4",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "12",
+            "onBlk": "-17",
+            "onHit": "-3",
+            "onCh": "-3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "crouching",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "10",
+            "onBlk": "-15",
+            "onHit": "-4",
+            "onCh": "-4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "12",
+            "onBlk": "-3",
+            "onHit": "+4",
+            "onCh": "+4",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 62,
+            "name": "Ballistic Upper",
+            "notation": [
+                "While",
+                "rising",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 15,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 63,
+            "name": "Glacial Hilt",
+            "notation": [
+                "While",
+                "rising",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 21,
+            "speed": 16,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "While",
+                "rising",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "15",
+            "onBlk": "-5",
+            "onHit": "+6",
+            "onCh": "+6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "1"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "13",
+            "onBlk": "-2",
+            "onHit": "+7",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 22,
+            "name": "Scimitar",
+            "notation": [
+                "df",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 14,
+            "speed": 15,
+            "onBlk": -12,
+            "onHit": "Launch",
+            "onCh": "Launch (JG?)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 23,
+            "name": "Mantis Heel",
+            "notation": [
+                "df",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 36,
+            "speed": 17,
+            "onBlk": -6,
+            "onHit": "Throw",
+            "onCh": "Throw(KND)",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "3(Far)"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "16",
+            "onBlk": "-6",
+            "onHit": "+5",
+            "onCh": "+10",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "df",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "14",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "u",
+                "1(oru/f",
+                "1+2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "12",
+            "onBlk": "-8",
+            "onHit": "+3",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 43,
+            "name": "Eye Blast",
+            "notation": [
+                "uf",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 18,
+            "speed": 16,
+            "onBlk": -7,
+            "onHit": "+9",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 42,
+            "name": "Counterstrike",
+            "notation": [
+                "ub",
+                "2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": 18,
+            "speed": 20,
+            "onBlk": -5,
+            "onHit": "+9",
+            "onCh": "CS",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "u(oruf",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "20",
+            "onBlk": "-3?",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "ub",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "16",
+            "onBlk": "-17",
+            "onHit": "-6",
+            "onCh": "-6",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "u",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "16",
+            "onBlk": "-13",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "uf",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "16",
+            "onBlk": "-7",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "ub",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "21",
+            "onBlk": "-17",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "u",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "21",
+            "onBlk": "-13",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 45,
+            "name": "Slicing Sobat",
+            "notation": [
+                "uf",
+                "4"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": 21,
+            "speed": 22,
+            "onBlk": -9,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "1"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "7",
+            "onBlk": "+1",
+            "onHit": "+8",
+            "onCh": "+8",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "2"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "16",
+            "onBlk": "-10",
+            "onHit": "-4",
+            "onCh": "+1",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "3"
+            ],
+            "hitLevel": [
+                "Mid"
+            ],
+            "damage": "10",
+            "onBlk": "-9",
+            "onHit": "+2",
+            "onCh": "+2",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "During",
+                "sidestep",
+                "4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "15",
+            "onBlk": "-9",
+            "onHit": "+1",
+            "onCh": "+7",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "1(or2"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "15",
+            "onBlk": "-8",
+            "onHit": "+3",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "3(or4"
+            ],
+            "hitLevel": [
+                "High"
+            ],
+            "damage": "25",
+            "onBlk": "-8",
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "1(or2"
+            ],
+            "hitLevel": [
+                "SMid"
+            ],
+            "damage": "10",
+            "onBlk": "-2",
+            "onHit": "+9",
+            "onCh": "+9",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": 69,
+            "name": "Cane Stab",
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "3"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": 20,
+            "speed": 16,
+            "onBlk": -11,
+            "onHit": "KND",
+            "onCh": "KND",
+            "notes": null,
+            "properties": []
+        },
+        {
+            "number": null,
+            "name": null,
+            "notation": [
+                "Back",
+                "towards",
+                "enemy",
+                "d",
+                "4"
+            ],
+            "hitLevel": [
+                "Low"
+            ],
+            "damage": "12",
+            "onBlk": "-11",
+            "onHit": "+3",
+            "onCh": "+3",
+            "notes": null,
+            "properties": []
+        }
+    ]
+}

@@ -504,7 +504,7 @@
     "on_ch": "uKZD",
     "notes": null
   }, {
-    "notation": "d/b+3 (Close)",
+    "notation": "d/b+3, (close-range, counter, hit, only)",
     "hit_level": "l (TC)",
     "damage": "21",
     "speed": "25 cs6~",
@@ -522,7 +522,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "d/b+3~1+2",
+    "notation": "Approach, (crouching, enemy), d/b+3, 1+2",
     "hit_level": "l(Throw)",
     "damage": "45",
     "speed": "38",
@@ -720,7 +720,7 @@
     "on_ch": "uKZD",
     "notes": null
   }, {
-    "notation": "u or u/f+2",
+    "notation": "u/f+2",
     "hit_level": "m (TJ)",
     "damage": "20",
     "speed": "30~31 js9~29",
@@ -774,7 +774,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, F+2~1+2",
+    "notation": "f, F+2, 1+2",
     "hit_level": "h(Throw)",
     "damage": "35",
     "speed": "43~44",
@@ -828,7 +828,7 @@
     "on_ch": "Throw(KND)",
     "notes": null
   }, {
-    "notation": "WR+3",
+    "notation": "Run, more, than, 3, steps, 3",
     "hit_level": "l(, (throw))",
     "damage": "20(,20)",
     "speed": "17 cs12~ ar10~",
@@ -1062,16 +1062,7 @@
     "on_ch": "Throw(KND)",
     "notes": null
   }, {
-    "notation": "qcf+4 When hit 1, 3, 4, 2",
-    "hit_level": "Chained",
-    "damage": "25,10,20",
-    "speed": "17~18 (19~)",
-    "on_block": null,
-    "on_hit": "Throw(KND)",
-    "on_ch": null,
-    "notes": null
-  }, {
-    "notation": "qcf+4 When hit 2, 4, 3, 1",
+    "notation": "qcf+4 When hit 1, 3, 4, 2, (or, 2, 4, 3, 1, )",
     "hit_level": "Chained",
     "damage": "25,10,20",
     "speed": "17~18 (19~)",

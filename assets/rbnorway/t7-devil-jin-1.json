@@ -135,7 +135,7 @@
     "on_ch": "-2",
     "notes": null
   }, {
-    "notation": "4~3 or WS+4~3",
+    "notation": "4~3",
     "hit_level": "m (TJ)",
     "damage": "21",
     "speed": "29~32 (30~) js14~26",
@@ -396,7 +396,7 @@
     "on_ch": "+3~+4s",
     "notes": null
   }, {
-    "notation": "d/b+1+2",
+    "notation": "D/B+1+2",
     "hit_level": "(Special)",
     "damage": null,
     "speed": "22~23 6~",
@@ -423,7 +423,7 @@
     "on_ch": "+7~+9",
     "notes": null
   }, {
-    "notation": "d/b*1+2 (Very long)",
+    "notation": "D/B+1+2, *",
     "hit_level": "m",
     "damage": "42",
     "speed": "11~13 (61~)",
@@ -576,7 +576,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "u or u/f+1+2",
+    "notation": "u/f+1+2",
     "hit_level": "(Sky)!",
     "damage": "26",
     "speed": "20~32",
@@ -729,7 +729,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "b, f+2, 1, d/b or d or d/f+2",
+    "notation": "b, f+2, 1, d/f+2",
     "hit_level": "m, m, m",
     "damage": "12,12,20",
     "speed": "15~17 (15~)",
@@ -747,7 +747,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, f, f+3 or WR+3 or f, n, d, d/f, U/F+3",
+    "notation": "f, f, f+3",
     "hit_level": "m (TJ)",
     "damage": "30",
     "speed": "22~25 (25~) js3~",
@@ -819,7 +819,7 @@
     "on_ch": "Launch",
     "notes": null
   }, {
-    "notation": "SS+2 U(When hit )",
+    "notation": "SS+2 When hit U",
     "hit_level": "m, (throw)",
     "damage": "25(,24,20)",
     "speed": "17~18 (26~)",
@@ -855,7 +855,7 @@
     "on_ch": null,
     "notes": null
   }, {
-    "notation": "3+4 or From certain moves (to FLY)",
+    "notation": "3+4",
     "hit_level": "(Special) (TJ)(FLY)",
     "damage": null,
     "speed": "a(s)",
@@ -945,7 +945,7 @@
     "on_ch": "Launch",
     "notes": null
   }, {
-    "notation": "f, n, d, d/f+1, U/F",
+    "notation": "f, n, d, d/f+1, UF, (must, hit)",
     "hit_level": "m, (throw)",
     "damage": "30,15",
     "speed": "22~23a (25~)",
@@ -972,7 +972,7 @@
     "on_ch": "KND",
     "notes": null
   }, {
-    "notation": "f, n, d, D/F+2",
+    "notation": "f, n, d, d/f+2",
     "hit_level": "h",
     "damage": "23",
     "speed": "11~12 (15~)",
@@ -981,7 +981,7 @@
     "on_ch": "Launch (JG?)",
     "notes": null
   }, {
-    "notation": "f, n, d, d/f+2",
+    "notation": "f, n, d, d/f+2, (Press, simultaneously)",
     "hit_level": "h",
     "damage": "23",
     "speed": "11~15 (14~)",

@@ -149,7 +149,8 @@ function convertRbnMoves(notation) {
 		replaceOpponentDown,
 		replaceHold,
 		replaceNeutral,
-		replaceGrounded,
+    replaceFaceDownGrounded,
+    replaceGrounded,
 		replaceFaceUp,
 		replaceTilde,
 		removeOr,
@@ -304,6 +305,10 @@ function replaceFaceUp(str) {
 	return str.replace('face up', '(facing, up),')
 }
 
+function replaceFaceDownGrounded(str) {
+  return str.replace('Face down Grounded', 'While, down, (facing, down),')
+}
+
 function replaceCH(str) {
   return str.replace('CH', 'During, Counter, Hit,');
 }
@@ -333,6 +338,8 @@ function replaceStances(str) {
     replaceAsukaStance,
     replaceBobStance,
     replaceChloeStance,
+    replaceClaudioStance,
+    replaceDVJStance,
 	)(str)
 }
 
@@ -357,5 +364,13 @@ function replaceChloeStance(str) {
     .replace(/SCT/, 'During, Scoot,')
 }
 
-console.log(convertRbnMoves('2, in, time, with, the, rhythm, 3'))
-console.log(getCommands(" in time with the rhythm "))
+function replaceClaudioStance(str) {
+  return str.replace(/STB/, 'During, Starburst,')
+}
+
+function replaceDVJStance(str) {
+  return str.replace(/FLY/, '3+4,')
+}
+
+console.log(convertRbnMoves("Face down Grounded 1+2"))
+console.log(getCommands("While down (facing down) "))
